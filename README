@@ -1,0 +1,14 @@
+axiom-gravatar
+------------------
+
+This is a really short module that allows access to the methods required to create a Gravatar URL.
+
+
+Usage
+------------------
+
+Put the axiom-gravatar module in your modules directory and list it as a module in your application.
+
+<code>
+axiom.Gravatar(email, size, rating);
+</code>
